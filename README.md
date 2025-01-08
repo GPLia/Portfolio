@@ -37,6 +37,4 @@ Para executar o Projeto ByteBank:
 
 ## Licença 
 
-(Se você quiser especificar uma licença para o seu código, adicione uma seção como esta. A licença MIT é uma boa opção para projetos pessoais.)
-
 Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.  
