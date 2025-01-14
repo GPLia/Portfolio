@@ -1,4 +1,4 @@
-# Gabriel Paiva - Portfólio
+# Gabriel Paiva 
 
 Olá! Bem-vindo ao meu portfólio online. Aqui você encontrará uma coleção dos meus projetos de desenvolvimento, destacando minhas habilidades em backend com Java e C#.
 
