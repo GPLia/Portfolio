@@ -1,7 +1,7 @@
 :root {
     --bg-color: #f4f4f4;
     --text-color: #333; 
-    --link-color: #007bff;
+    --link-color: #f79585;
     --projeto-bg: #fff;
     --projeto-border: #ddd;
 }
@@ -19,14 +19,56 @@ body {
 body.dark-theme { 
     --bg-color: #121212;
     --text-color: #eee;
-    --link-color: #64b5f6;
+    --link-color: #f79585;
     --projeto-bg: #1e1e1e;
-    --projeto-border: #333;
+    --projeto-border: #ff948b;
 }
 
 header {
     text-align: center;
     margin-bottom: 20px;
+}
+
+header nav ul {
+    list-style: none:
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+header nav li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+header nav a {
+    text-decoration: nome;
+    color: var(--text-color);
+    font-weitght: bold;
+    padding: 5px 10px;
+}
+
+header nav a:hover {
+    color: var(--link-color);
+    border-radius: 5px;
+}
+
+main {
+    margin-top: 20px;
+}
+
+#about-me {
+    margin-bottom: 30px;
+}
+
+#about-me h2{
+    text-align: center;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 5px;
 }
 
 
